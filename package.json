@@ -1,0 +1,31 @@
+{
+  "name": "alex",
+  "version": "1.0.0",
+  "description": "facebook",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adsitdikovi/facebook.git"
+  },
+  "keywords": [
+    "website",
+    "similar",
+    "to",
+    "adme.ru"
+  ],
+  "author": "Aleksejs Sitdikovs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adsitdikovi/facebook/issues"
+  },
+  "homepage": "https://github.com/adsitdikovi/facebook#readme",
+  "devDependencies": {
+    "del": "^1.2.0",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-newer": "^0.5.1",
+    "imagemin-pngquant": "^4.1.0"
+  }
+}
